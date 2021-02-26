@@ -5,8 +5,8 @@ import datetime
 
 
 # Use your own values from my.telegram.org
-api_id = your id here
-api_hash = your hash here
+api_id = 2700523
+api_hash = 587a1760bf37a2dec30441e73091172e
 
 client = TelegramClient('anon', api_id, api_hash)
 
